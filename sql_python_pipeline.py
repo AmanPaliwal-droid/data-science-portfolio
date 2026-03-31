@@ -1,17 +1,15 @@
 """
 =============================================================
-PROJECT 3: SQL + Python Data Pipeline
+SQL + Python Data Pipeline
 =============================================================
-Author      : [Your Name]
-Role Target : Instructional Associate @ CodingGita
+Author      : Aman Paliwal
 Skills Used : Python, SQLite, Pandas, SQL (DDL, DML, aggregations,
               joins, window functions, CTEs), Matplotlib
-JD Match    : SQL for data retrieval, manipulation, data science projects
 =============================================================
 
-Story: You are the data engineer for an e-learning platform.
+Story: I'm a data engineer for an e-learning platform.
 Students enroll in courses, complete lessons, and earn certificates.
-Your job is to build the database, populate it, and run analytical
+My job is to build the database, populate it, and run analytical
 SQL queries to answer real business questions from the management team.
 =============================================================
 """
