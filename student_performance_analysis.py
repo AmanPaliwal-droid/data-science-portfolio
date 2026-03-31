@@ -2,14 +2,12 @@
 =============================================================
 PROJECT 1: Student Performance Analysis (Ram's Story)
 =============================================================
-Author      : [Your Name]
-Role Target : Instructional Associate @ CodingGita
+Author      : Aman Paliwal
 Skills Used : Python, Pandas, Matplotlib, Seaborn, NumPy, EDA
-JD Match    : EDA sessions, data-driven insights, student outcomes
 =============================================================
 
-Story: Ram is a data analyst at an edtech company. His manager
-asks him to uncover WHY students are failing and WHAT interventions
+Story: I'm a data analyst at an edtech company. Suppose my manager
+asks me to uncover WHY students are failing and WHAT interventions
 can improve outcomes. This script walks through that journey.
 """
 
