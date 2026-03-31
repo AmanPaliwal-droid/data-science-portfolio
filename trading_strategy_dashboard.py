@@ -1,19 +1,18 @@
 """
 =============================================================
-PROJECT 2: Trading Strategy Dashboard
+Trading Strategy Dashboard
 =============================================================
-Author      : [Your Name]
-Role Target : Instructional Associate @ CodingGita
+Author      : Aman Paliwal
 Skills Used : Python, Pandas, NumPy, Matplotlib, Financial EDA
-JD Match    : Business understanding, data analysis, trend discovery,
-              real-world scenario problem solving
 =============================================================
 
-Story: You're a data analyst at a trading firm. Your job is to:
+Story: I'm a data analyst at a trading firm. My job is to:
   1. Analyse historical stock price data
   2. Build and backtest two simple strategies (SMA crossover & RSI)
   3. Visualise performance and generate actionable signals
   4. Export a PowerBI-ready Excel summary
+
+  Note: This strategy is text-book based. I'm not responsible for any profit ot losses occured. I don't share my own strategy, and I never will.
 =============================================================
 """
 
