@@ -1,17 +1,13 @@
 """
 =============================================================
-PROJECT 4: E-Commerce Sales EDA — Uncovering Hidden Patterns
+E-Commerce Sales EDA — Uncovering Hidden Patterns
 =============================================================
-Author      : [Your Name]
-Role Target : Instructional Associate @ CodingGita
+Author      : Aman Paliwal
 Skills Used : Python, Pandas, NumPy, Matplotlib, Seaborn,
               Statistical Analysis, Feature Engineering
-JD Match    : EDA sessions, pattern & trend discovery,
-              data-driven insights, PowerBI Excel export
 =============================================================
 
-Story: You're a data analyst at FlipMart (fictional Indian
-e-commerce). Management wants to know:
+Story: Suppose I'm a data analyst at Flipkart and management wants to know:
   1. Which product categories drive the most revenue?
   2. When do customers buy most? (time-of-day, day-of-week)
   3. Which cities are underperforming?
