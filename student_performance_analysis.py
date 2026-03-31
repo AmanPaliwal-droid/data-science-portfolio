@@ -1,6 +1,6 @@
 """
 =============================================================
-PROJECT 1: Student Performance Analysis (Ram's Story)
+Student Performance Analysis
 =============================================================
 Author      : Aman Paliwal
 Skills Used : Python, Pandas, Matplotlib, Seaborn, NumPy, EDA
